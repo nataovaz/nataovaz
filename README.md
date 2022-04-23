@@ -1,4 +1,10 @@
-Olá! Eu sou o Natan, estou cursando Engenharia de Computação pela Unifei - Itabira
+**Hi, i'm Natan  <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"> **
+* * *
+**About me:**
+- 💻 I'm graduating Engineer of Computer since 2020
+- ⚛️ JavaScript | Flutter | React
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/natan-vaz/), [instagram](https://www.instagram.com/nataovaz/) 
+* * *
 <div>
   <a href="https://github.com/nataovaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataovaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,3 +18,5 @@ Olá! Eu sou o Natan, estou cursando Engenharia de Computação pela Unifei - It
   <img align="center" alt="Natan-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Natan-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
+
+**🚀 let's the future!**

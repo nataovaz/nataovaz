@@ -6,7 +6,6 @@
 - 💻 I'm graduating Engineer of Computer since 2020
 - ⚛️ JavaScript | Flutter | React
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/natan-vaz/), [instagram](https://www.instagram.com/nataovaz/) 
-- 
 * * *
 
 <div>

@@ -1,4 +1,4 @@
-**Hi, i'm Natan  <img src="https://giphy.com/gifs/pixel-art-toad-qyTwrPzEaa7dK" width="50"> **
+**Hi, i'm Natan  <img src="https://giphy.com/embed/qyTwrPzEaa7dK" width="50"> **
 
 * * *
 

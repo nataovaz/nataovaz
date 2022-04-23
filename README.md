@@ -1,4 +1,5 @@
-**Hi, i'm Natan **<img src="https://github.com/nataovaz/nataovaz/blob/main/toad.gif" width="50"> 
+
+**Hi, I'm Natan! <img src="https://github.com/nataovaz/nataovaz/blob/main/toad.gif" width="50">**
 
 * * *
 
